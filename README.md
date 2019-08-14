@@ -1,2 +1,2 @@
-# Hospot-Phayao
-Hospot-Phayao
+# Hotspot-Phayao
+Hotspot-Phayao
